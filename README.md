@@ -336,8 +336,3 @@ Add support for customizable notification templates.
 
 Enhance OTP security with expiration and rate limits.
 
-## 📬 Contact
-
-For any questions or clarifications, please reach out via the repository's issue tracker or the provided [Postman workspace](https://web.postman.co/workspace/da93cb16-ddfe-46d8-be8f-671e3e2c7d39).
-
-You can also connect with me through my [portfolio website](https://balmukundkumar-portfolio.netlify.app/).
